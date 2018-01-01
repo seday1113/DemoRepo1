@@ -8,4 +8,10 @@ public void creditcardpage1(){
 		
 	}
 
+public void creditcardpage2(){
+	
+	System.out.println("creditcardpage  ");
+	
+}
+
 }
