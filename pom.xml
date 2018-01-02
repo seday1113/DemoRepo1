@@ -12,6 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.test.skip>false</maven.test.skip>
   </properties>
 
   <dependencies>
@@ -96,7 +97,7 @@
 						</dependency>
 		 
 		</dependencies>
-		 
+		
 		<build>
 		 
 				<plugins>
@@ -113,7 +114,7 @@
 					<version>2.19.1</version>
 					<configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>src\main\resources\testNG.xml</suiteXmlFile>
+            <suiteXmlFile>src\main\resources\testng1.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
 					
@@ -122,4 +123,6 @@
 				</plugins>
 		 
 		</build>
+		 
+		
 </project>

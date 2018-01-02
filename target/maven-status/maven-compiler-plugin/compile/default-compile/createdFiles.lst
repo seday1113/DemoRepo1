@@ -1,0 +1,6 @@
+com\qa\pages\searchpage.class
+com\qa\pages\HomePage.class
+com\qa\libs\TestBase.class
+com\qa\pages\creditcardPAGE.class
+com\qa\utils\TestUtil.class
+com\qa\pages\loginPage.class

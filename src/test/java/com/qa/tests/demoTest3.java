@@ -2,7 +2,7 @@ package com.qa.tests;
 
 import org.testng.annotations.Test;
 
-public class loginTest1 {
+public class demoTest3 {
 	
 	@Test
 	public void sum(){
